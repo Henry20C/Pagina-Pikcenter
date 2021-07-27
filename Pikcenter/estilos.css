@@ -1,0 +1,342 @@
+body {
+    background-color: white;
+}
+#contenedor {
+    position: relative;
+    color: palegreen;
+    background-color: orange;
+    height: 90px;
+    width: 1503px;
+}
+.clik {
+    position: relative;
+    width: 130px;
+    top: 13px;
+    left: 357px;
+}
+#iniciar {
+    position: relative;
+    left: 880px;
+    width: 55px;
+    bottom: 17px;
+    background-color: orange;
+    border: transparent;
+}
+#boton {
+    position: relative;
+    left: 800px;
+    bottom: 9px;
+    background-color: orange;
+    border: transparent;
+}
+#carro {
+    position:  relative;
+    left: 900px;
+    width: 58px;
+    bottom: 18px;
+    background-color: orange;
+    border: transparent;
+}
+#boton1 {
+    position: relative;
+    left: 815px;
+    bottom: 9px;
+    background-color: orange;
+    border: transparent;
+}
+#busqueda {
+    position: relative;
+    width: 250px;
+    margin: 0 auto;
+    bottom: 57px;
+    right: 90px;
+    border-bottom: transparent;
+}
+#field {
+    border: transparent;
+}
+#lupa {
+    width: 351px;
+    color: blue;
+    height: 16px;
+}
+#boton2 {
+    position: relative;
+    left: 326px;
+    bottom: 21px;
+    border: transparent;
+    border-left: 1px solid;
+    background-color: white;
+}
+.fondo {
+    position: relative;
+    width: 1503px;
+    bottom: 57px;
+}
+.uno {
+    position: relative;
+    left: 250px;
+    top: 30px;
+}
+.dos {
+    position: relative;
+    left: 350px;
+    top: 30px;
+}
+.tres {
+    position: relative;
+    left: 450px;
+    top: 30px;
+}
+.cuatro {
+    position: relative;
+    left: 550px;
+    top: 30px;
+}
+.pik {
+    position: absolute;
+    left: 292px;
+    font-size: 20px;
+    bottom: 10px;
+}
+.bebe {
+    position: absolute;
+    left: 567px;
+    bottom: 10px;
+    font-size: 20px;
+}
+.casa {
+    position: absolute;
+    left: 825px;
+    bottom: 10px;
+    font-size: 20px;
+}
+.cuidado {
+    position: absolute;
+    left: 1074px;
+    bottom: 10px;
+    font-size: 20px;
+}
+#mascotas {
+    position: relative;
+    left: 235px;
+    bottom: -160px;
+    background-color: orange;
+    width: 1030px;
+    margin: 0;
+}
+.aerosol {
+    position: relative;
+    top: 240px;
+    left: 190px;
+    border: 2px orange solid;
+}
+.comida {
+    position: relative;
+    top: 240px;
+    left: 210px;
+    border: 2px orange solid;
+}
+.tableta {
+    position: relative;
+    top: 240px;
+    left: 230px;
+    border: 2px orange solid;
+}
+.casa1 {
+    position: relative;
+    top: 240px;
+    left: 250px;
+    border: 2px orange solid;
+}
+.contenedorpro4 {
+    position: relative;
+    background-color: transparent;
+    width: 200px;
+    height: 170px;
+    left: 1057px;
+    top: 250px;
+    border: 1px orange solid;
+}
+.nombre {
+    position: relative;
+    bottom: 0px;
+    left: 20px;
+    font-size: 15px;
+}
+.precio {
+    position: relative;
+    top: 50px;
+    left: 81px; 
+    font-size: 20px;
+}
+.comprar {
+    position: relative;
+    top: 90px;
+    left: 70px;
+    color: black;
+    background-color: orange;
+}
+.contenedorpro3 {
+    position: relative;
+    background-color: transparent;
+    width: 200px;
+    height: 170px;
+    left: 765px;
+    top: 80px;
+    border: 1px orange solid;
+}
+.contenedorpro2 {
+    position: relative;
+    background-color: transparent;
+    width: 200px;
+    height: 170px;
+    left: 515px;
+    bottom: 90px;
+    border: 1px orange solid;
+}
+.contenedorpro1 {
+    position: relative;
+    background-color: transparent;
+    width: 200px;
+    height: 170px;
+    left: 230px;
+    bottom: 260px;
+    border: 1px orange solid;
+}
+.contenedor {
+    position: absolute;
+    background-color: orange;   
+    font-size: 20px;
+    width: 1030px;
+    height: 25px;
+    top: 1460px;
+    left: 235px;
+}
+.imagenes {
+    position: relative;
+    bottom: 290px;
+}
+.hisopos {
+    position: relative;
+    top: 240px;
+    left: 190px;
+    border: 2px orange solid;
+}
+.javon {
+    position: relative;
+    top: 240px;
+    left: 210px;
+    border: 2px orange solid;
+}
+.protector {
+    position: relative;
+    top: 240px;
+    left: 230px;
+    border: 2px orange solid;
+}
+.desodorante {
+    position: relative;
+    top: 240px;
+    left: 250px;
+    border: 2px orange solid;
+}
+.precios {
+    position: relative;
+    bottom: 288px;
+}
+.contenedorpro5 {
+    position: relative;
+    background-color: transparent;
+    width: 200px;
+    height: 170px;
+    left: 1057px;
+    top: 250px;
+    border: 1px orange solid;
+}
+.contenedorpro6 {
+    position: relative;
+    background-color: transparent;
+    width: 200px;
+    height: 170px;
+    left: 765px;
+    top: 80px;
+    border: 1px orange solid;
+}
+.contenedorpro7 {
+    position: relative;
+    background-color: transparent;
+    width: 200px;
+    height: 170px;
+    left: 515px;
+    bottom: 90px;
+    border: 1px orange solid;
+}
+.contenedorpro8 {
+    position: relative;
+    background-color: transparent;
+    width: 200px;
+    height: 170px;
+    left: 230px;
+    bottom: 260px;
+    border: 1px orange solid;
+}
+.img1 {
+    position: relative;
+    background-color: gray;
+    bottom: 350px;
+    height: 248px;
+}
+.img2 {
+    position: relative;
+    left: 60px;
+    top: 10px;
+}
+.lista {
+    position: relative;
+    bottom: 630px;
+    left: 600px;
+    color: white;
+}
+.center {
+    position: relative;
+    bottom: 570px;
+    left: 390px;
+}
+.face {
+    position: relative;
+    bottom: 700px;
+    left: 440px;
+    background-color: gray;
+    border: transparent;
+}
+.twi {
+    position: relative;
+    bottom: 700px;
+    left: 445px;
+    background-color: gray;
+    border: transparent;
+}
+.ins {
+    position: relative;
+    bottom: 700px;
+    left: 450px;
+    background-color: gray;
+    border: transparent;
+}
+.master {
+    position: relative;
+    bottom: 500px;
+    left: 550px;
+}
+.visa {
+    position: relative;
+    bottom: 532px;
+    left: 505px;
+}
+.american {
+    position: relative;
+    bottom: 500px;
+    left: 520px;
+}
+
